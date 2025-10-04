@@ -1,4 +1,4 @@
-# LANGGRAPH-CHATBOT-ABHI
+# LANGGRAPH-CHATBOT
 # Chatbot Project
 
 AI-powered chatbot built using **LangChain**, **LangGraph**, and **Streamlit** with persistent memory (SQLite), streaming responses, and tool integration.  
