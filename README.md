@@ -5,7 +5,8 @@ AI-powered chatbot built using **LangChain**, **LangGraph**, and **Streamlit** w
 
 ## Features
 - Multi-threaded conversation with session-based memory
-- Web search, stock lookup, and calculator tools
+- Web search, stock lookup, and  calculator tools
+- have also integrated with SQLDatabaseToolkit to make a text to SQL converter
 - User-friendly Streamlit interface with sidebar for chat history
 
 ## Tech Stack
